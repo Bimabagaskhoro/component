@@ -1,4 +1,4 @@
-package com.bimabk.component
+package com.bimabk.component.base
 
 import androidx.compose.ui.graphics.Color
 

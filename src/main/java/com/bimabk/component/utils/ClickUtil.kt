@@ -1,4 +1,4 @@
-package com.bimabk.component
+package com.bimabk.component.utils
 
 import androidx.compose.foundation.Indication
 import androidx.compose.foundation.LocalIndication
